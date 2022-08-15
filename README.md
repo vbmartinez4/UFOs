@@ -33,4 +33,6 @@ While we have created a website that is not only user friendly but allows for a 
 
 We would need to update the code for the filter searches to allow for multiple methods of the user entering the information, such as no capitalization or having the first letter capitalized or the entire word capitalized. The user will not recognize that the information can only be entered using lower case. We need to appreciate that end users can enter the data in a variety of ways and need to further consider and display this in the code creation of the site. 
 
+For example, as we enter ‘Willow’ in the City filter search field, we have zero results appear when in fact we know that there should be two results for the city of Willow. We need to appreciate that end users can enter the data in a variety of ways and need to further consider and display this in the code creation of the site. 
+
 Another recommendation for further development could be to include a hovering key or symbol right next to each filter field to provide the user options as to how to enter the data so the search produces the results they seek. This will allow the user to be aware as to how to enter the data before they do so in the search field. Guides like these go a step beyond to truly assist and make the user experience more pleasant. 
