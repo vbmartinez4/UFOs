@@ -19,9 +19,10 @@ On the left side of the page, we have created multiple search engines that will 
 ![]()
 
 Using the following example, we are able to see in real time how the filters work in conjugation with narrowing down the data in the table. For example, by setting the following filters:
-  o	Enter Date: 1/7/2010
-  o	Enter State: ma
-  o	Enter Shape: light
+
+- Enter Date: 1/7/2010
+- Enter State: ma
+- Enter Shape: light
 
 ![]()
 
