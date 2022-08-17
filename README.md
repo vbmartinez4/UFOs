@@ -28,11 +28,15 @@ Using the following example, we are able to see in real time how the filters wor
 
 We are able to see in action the filter search component of the table generate results and to filter through two pieces of data points from the entire data set that match the criteria entered. Ultimately, from the information the end user edits, it will clearly align with producing an accurate read and return of the table. 
 
+![Results](static/images/filter_results.png)
+
 ## Summary
 While we have created a website that is not only user friendly but allows for a dynamic functionality of data, one specific drawback of this new website design that could be enhanced in a future remodel is the specificity of the data points, meaning how the information in the search bar is entered matters greatly. 
 
 We would need to update the code for the filter searches to allow for multiple methods of the user entering the information, such as no capitalization or having the first letter capitalized or the entire word capitalized. The user will not recognize that the information can only be entered using lower case. We need to appreciate that end users can enter the data in a variety of ways and need to further consider and display this in the code creation of the site. 
 
-For example, as we enter ‘Willow’ in the City filter search field, we have zero results appear when in fact we know that there should be two results for the city of Willow. We need to appreciate that end users can enter the data in a variety of ways and need to further consider and display this in the code creation of the site. 
+For example, as we enter ‘Willow’ in the City filter search field, we have zero results appear when in fact we know that there should be two results for the city of Willow. We need to appreciate that end users can enter the data in a variety of ways and need to further consider and display this in the code creation of the site.
+
+![Error](static/images/filter_error.png)
 
 Another recommendation for further development could be to include a hovering key or symbol right next to each filter field to provide the user options as to how to enter the data so the search produces the results they seek. This will allow the user to be aware as to how to enter the data before they do so in the search field. Guides like these go a step beyond to truly assist and make the user experience more pleasant. 
