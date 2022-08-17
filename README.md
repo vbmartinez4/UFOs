@@ -12,11 +12,11 @@ When we first access the website, our browser takes us straight to viewing the t
 
 Scrolling further, we see the dynamic table that has been established which contains all of the data points (from our data.js file) and their corresponding information regarding UFO sightings throughout the course of years in the United States. With each row corresponding as one data point, scrolling down the site we can see the size of the table and the copious amount of data points.
 
-![]()
+![Table](static/images/data_table.png)
 
 On the left side of the page, we have created multiple search engines that will allow the end user to narrow down specific UFO sighting events by filtering for certain characteristics. The following filter searches have been created by: Data, City, State, Country, and Shape. These were selected as they were all specific qualifiers that would allow the end user to hone in and obtain one or multiple specific events. Having these filters are a great aid to website users as it makes it more user-friendly, this type of accessibility is key to keeping user satisfaction in mind.  
 
-![]()
+![Filter](static/images/filter.png)
 
 Using the following example, we are able to see in real time how the filters work in conjugation with narrowing down the data in the table. For example, by setting the following filters:
 
@@ -24,7 +24,7 @@ Using the following example, we are able to see in real time how the filters wor
 - Enter State: ma
 - Enter Shape: light
 
-![]()
+![Search](static/images/filter_search.png)
 
 We are able to see in action the filter search component of the table generate results and to filter through two pieces of data points from the entire data set that match the criteria entered. Ultimately, from the information the end user edits, it will clearly align with producing an accurate read and return of the table. 
 
