@@ -8,7 +8,7 @@ As our client Dana has this file of data collections of a number of different UF
 ## Results
 When we first access the website, our browser takes us straight to viewing the title header and the blurb that provides insight as to what the subject of the website.
 
-![]()
+![Header](static/images/ufo_site_header.png)
 
 Scrolling further, we see the dynamic table that has been established which contains all of the data points (from our data.js file) and their corresponding information regarding UFO sightings throughout the course of years in the United States. With each row corresponding as one data point, scrolling down the site we can see the size of the table and the copious amount of data points.
 
